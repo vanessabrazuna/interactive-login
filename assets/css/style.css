@@ -419,10 +419,13 @@ input:-webkit-autofill {
         border-radius: 0;
     }
 
+<<<<<<< HEAD
     .title-secund {
         margin-top: 30px;
     }
 
+=======
+>>>>>>> 1a1795b8d70d3155cd8f192127339e7261558741
     .first-content,
     .secund-content {
         flex-direction: column;
