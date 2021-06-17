@@ -22,7 +22,7 @@ body {
 .content {
     background-color: #fff;
     border-radius: 15px;
-    width: 960px;/* 960px original */
+    width: 900px;/* 960px original */
     height: 70%; /* 50% original */
     justify-content: space-between;
     align-items: center;
@@ -418,11 +418,6 @@ input:-webkit-autofill {
         top: 0;
         border-radius: 0;
     }
-
-    .title-secund {
-        margin-top: 20%;
-    }
-
 
     .first-content,
     .secund-content {
