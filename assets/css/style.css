@@ -419,10 +419,6 @@ input:-webkit-autofill {
         border-radius: 0;
     }
 
-    .title-secund {
-        margin-top: 20px;
-    }
-
     .first-content,
     .secund-content {
         flex-direction: column;
